@@ -1,25 +1,26 @@
-# learning-to-program
-A collection of projects and code snippets documenting my learning journey. 
+# Aprendendo a Programar
+
+Repositório contendo listas do Profº Elder Rizzon Santos e meu progresso na jornada de aprendizado em programação. 
 
 ## Nota
 
-Este repositório contém as listas do Profº Elder Rizzon Santos, que me ensinou verdadeiramente a programar e que possui uma das didáticas mais incríveis para lhe mostrar como aprender a programar de verdade, independente da tecnologia escolhida.
+As listas do Profº Elder Rizzon Santos são uma excelente fonte de aprendizado, com uma didática incrível. Graças a ele e à minha dedicação, aprendi a programar de verdade, independente da linguagem de programação.
 
-Recomendo acompanhar o [canal](https://www.youtube.com/@ProfElder) dele e seguir a [playlist](https://youtube.com/playlist?list=PLgOsridJi6bPQw0GIbJPg4xxMOXLRMZqC&si=h-SrAkSHGLh84mYb) de Introdução à Programação.
+Recomendo seu [canal](https://www.youtube.com/@ProfElder) e a [playlist](https://youtube.com/playlist?list=PLgOsridJi6bPQw0GIbJPg4xxMOXLRMZqC&si=h-SrAkSHGLh84mYb) de Introdução à Programação.
 
 ## Descrição
 
-Sempre tive o interesse de ser professor, este com certeza sempre foi um sonho de criança, sempre foi a profissão que mais me encantou e encanta, essa paixão começou pelos meus pais, que sempre me ensinaram tudo. Decidi então criar este repositório com o intuito de ajudar aqueles que querem aprender a programar do zero e me ajudar também com o objetivo de um dia desenvolver minhas próprias listas e minha própria didáticas, quem sabe.
+Este repositório é uma iniciativa para ajudar iniciantes na programação, inspirado pela paixão que sempre tive em ensinar. A ideia é criar minha própria didática no futuro próximo.
 
 ### Dicas
 
-1. Inicie no Python. Aprenda a programar em Python e depois se preferir estude outras.
+1. Inicie com Python, evolua para outras linguagens depois.
 
-2. Independente da linguagem de programação que escolher, evite utilizar funções prontas. Isso o ajuda-rá a criar sua própria lógica e funções futuramente.
+2. Evite funções prontas para desenvolver sua lógica.
 
 3. Utilize Google Colab ou Jupyter Notebook
 
-## O que você irá aprender?
+## Conteúdo
 
 1. [Conceitos](https://github.com/renanss4/learning-to-program/tree/main/aula01)
 
@@ -56,10 +57,14 @@ Sempre tive o interesse de ser professor, este com certeza sempre foi um sonho d
 
 
 
-### E como exercitar o conteúdo em conjunto?
+## Exercícios
 
 Tente realizar as provas abaixo:
 
 - [Prova 1](https://github.com/renanss4/learning-to-program/tree/main/provas/P1)
 
 - [Prova 2](https://github.com/renanss4/learning-to-program/tree/main/provas/P2)
+
+---
+
+> Siga os links para acessar o conteúdo de cada aula, pratique com as provas fornecidas e agradeça ao Profº Elder Rizzon Santos por sua incrível contribuição ao aprendizado.
