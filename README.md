@@ -17,7 +17,7 @@ Sempre tive o interesse de ser professor, este com certeza sempre foi um sonho d
 
 2. Independente da linguagem de programação que escolher, evite utilizar funções prontas. Isso o ajuda-rá a criar sua própria lógica e funções futuramente.
 
-
+3. Utilize Google Colab ou Jupyter Notebook
 
 ## O que você irá aprender?
 
