@@ -22,37 +22,37 @@ Este repositório é uma iniciativa para ajudar iniciantes na programação, ins
 
 ## Conteúdo
 
-1. [Conceitos](https://github.com/renanss4/learning-to-program/tree/main/aula01)
+1. [Conceitos](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula01)
 
-2. [Variáveis e I/O (Input/Output)](https://github.com/renanss4/learning-to-program/tree/main/aula02)
+2. [Variáveis e I/O (Input/Output)](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula02)
 
-3. [Expressões Relacionais e Lógicas](https://github.com/renanss4/learning-to-program/tree/main/aula03)
+3. [Expressões Relacionais e Lógicas](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula03)
 
-4. [Condicional: IF-ELSE](https://github.com/renanss4/learning-to-program/tree/main/aula04)
+4. [Condicional: IF-ELSE](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula04)
 
-5. [Conficional Encadeado: IF-ELSE IF](https://github.com/renanss4/learning-to-program/tree/main/aula05)
+5. [Conficional Encadeado: IF-ELSE IF](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula05)
 
-6. [Estruturas de Repetição While](https://github.com/renanss4/learning-to-program/tree/main/aula06)
+6. [Estruturas de Repetição While](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula06)
 
-7. [Estruturas de Repetição Aninhadas](https://github.com/renanss4/learning-to-program/tree/main/aula07)
+7. [Estruturas de Repetição Aninhadas](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula07)
 
-8. [Funções](https://github.com/renanss4/learning-to-program/tree/main/aula08)
+8. [Funções](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula08)
 
-9. [Vetores e Listas](https://github.com/renanss4/learning-to-program/tree/main/aula09)
+9. [Vetores e Listas](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula09)
 
-10. [Criação e atualização de Listas](https://github.com/renanss4/learning-to-program/tree/main/aula10)
+10. [Criação e atualização de Listas](https://github.com/renanss4/learning-to-program/tree/main/parte1/aula10)
 
-11. [Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula11)
+11. [Matrizes](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula11)
 
-12. [Criação de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula12)
+12. [Criação de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula12)
 
-13. [Diagonais de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula13)
+13. [Diagonais de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula13)
 
-14. [Dicionários](https://github.com/renanss4/learning-to-program/tree/main/aula14)
+14. [Dicionários](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula14)
 
-15. [Orientação a Objetos: fundamentos](https://github.com/renanss4/learning-to-program/tree/main/aula15)
+15. [Orientação a Objetos: fundamentos](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula15)
 
-16. [Orientação a Objetos: herança](https://github.com/renanss4/learning-to-program/tree/main/aula16)
+16. [Orientação a Objetos: herança](https://github.com/renanss4/learning-to-program/tree/main/parte2/aula16)
 
 
 
