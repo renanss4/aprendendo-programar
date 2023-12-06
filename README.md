@@ -21,37 +21,37 @@ Sempre tive o interesse de ser professor, este com certeza sempre foi um sonho d
 
 ## O que você irá aprender?
 
-1. Conceitos
+1. [Conceitos](https://github.com/renanss4/learning-to-program/tree/main/aula01)
 
-2. Variáveis e I/O (Input/Output)
+2. [Variáveis e I/O (Input/Output)](https://github.com/renanss4/learning-to-program/tree/main/aula02)
 
-3. Expressões Relacionais e Lógicas
+3. [Expressões Relacionais e Lógicas](https://github.com/renanss4/learning-to-program/tree/main/aula03)
 
-4. Condicional: IF-ELSE
+4. [Condicional: IF-ELSE](https://github.com/renanss4/learning-to-program/tree/main/aula04)
 
-5. Conficional Encadeado: IF-ELSE IF
+5. [Conficional Encadeado: IF-ELSE IF](https://github.com/renanss4/learning-to-program/tree/main/aula05)
 
-6. Estruturas de Repetição While
+6. [Estruturas de Repetição While](https://github.com/renanss4/learning-to-program/tree/main/aula06)
 
-7. Estruturas de Repetição Aninhadas
+7. [Estruturas de Repetição Aninhadas](https://github.com/renanss4/learning-to-program/tree/main/aula07)
 
-8. Funções
+8. [Funções](https://github.com/renanss4/learning-to-program/tree/main/aula08)
 
-9. Vetores e Listas
+9. [Vetores e Listas](https://github.com/renanss4/learning-to-program/tree/main/aula09)
 
-10. Criação e atualização de Listas
+10. [Criação e atualização de Listas](https://github.com/renanss4/learning-to-program/tree/main/aula10)
 
-11. Matrizes
+11. [Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula11)
 
-12. Criação de Matrizes
+12. [Criação de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula12)
 
-13. Diagonais de Matrizes
+13. [Diagonais de Matrizes](https://github.com/renanss4/learning-to-program/tree/main/aula13)
 
-14. Dicionários
+14. [Dicionários](https://github.com/renanss4/learning-to-program/tree/main/aula14)
 
-15. Orientação a Objetos: fundamentos
+15. [Orientação a Objetos: fundamentos](https://github.com/renanss4/learning-to-program/tree/main/aula15)
 
-16. Orientação a Objetos: herança
+16. [Orientação a Objetos: herança](https://github.com/renanss4/learning-to-program/tree/main/aula16)
 
 
 
