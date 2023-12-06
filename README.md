@@ -56,6 +56,10 @@ Sempre tive o interesse de ser professor, este com certeza sempre foi um sonho d
 
 
 
-## E como exercitar o conteúdo em conjunto?
+### E como exercitar o conteúdo em conjunto?
 
-Terá uma pasta em específico contendo alguns arquivos, tente realizar eles
+Tente realizar as provas abaixo:
+
+- [Prova 1](https://github.com/renanss4/learning-to-program/tree/main/provas/P1)
+
+- [Prova 2](https://github.com/renanss4/learning-to-program/tree/main/provas/P2)
