@@ -68,3 +68,7 @@ Tente realizar as provas abaixo:
 ---
 
 > Siga os links para acessar o conteúdo de cada aula, pratique com as provas fornecidas e agradeça ao Profº Elder Rizzon Santos por sua incrível contribuição ao aprendizado.
+
+---
+
+Arrumar Readme de cada aula ...
