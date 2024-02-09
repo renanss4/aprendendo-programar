@@ -1,4 +1,13 @@
+# vscode
+
 venv/
 *.ipynb_checkpoints
 *.pytest_cache
+
+# eclipse
+
 .metadata/
+.settings/
+.classpath
+.gitignore
+.project
