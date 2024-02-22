@@ -1,25 +1,25 @@
-## Lua Repository
+# Lua Repository
 
 This repository contains a simple guessing game implemented in Lua. Below, you'll find information about Lua, installation instructions for both Windows and Linux, and how to play the guessing game.
 
-### About Lua
+## About Lua
 Lua is a powerful, efficient, lightweight, embeddable scripting language. It's often used in various applications and game development due to its simplicity and versatility.
 
-### Installation
+## Installation
 
-#### Windows
+### Windows
 1. Go to the [Lua official website](https://www.lua.org/download.html).
 2. Download the Windows binary corresponding to your system architecture (32-bit or 64-bit).
 3. Run the installer and follow the installation instructions.
 
-#### Linux
+### Linux
 Lua is usually available in the package repositories of most Linux distributions. You can install it using the package manager of your distribution. For example, on Ubuntu, you can install Lua by running the following command in the terminal:
 
 ```bash
 sudo apt-get install lua5.3
 ```
 
-### How to Play the Guessing Game
+## How to Play the Guessing Game
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the `adivinhe.lua` file.
@@ -33,12 +33,11 @@ lua advinhe.lua
 5. Follow the instructions displayed in the game to play.
 6. Enjoy the game!
 
-### About the Guessing Game
+## About the Guessing Game
 
 The guessing game is a simple game where the computer chooses a random number between 1 and 100, and the player needs to guess it through trial and error. The game provides feedback to the player after each guess, indicating whether the guessed number is greater or less than the target number. The player can continue guessing until they correctly guess the number or choose to quit the game.
 
-### Credits
+## Credits
 This game was developed in collaboration with the YouTube channel [Gliderspace](https://www.youtube.com/@gliderspace).
 
 Feel free to explore the code and have fun playing the game!
-
