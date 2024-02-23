@@ -1,6 +1,6 @@
 # Lua Repository
 
-This repository contains a simple guessing game implemented in Lua. Below, you'll find information about Lua, installation instructions for both Windows and Linux, and how to play the guessing game.
+This directory contains a simple guessing game implemented in Lua and also a file I found on the internet that shows the main concepts of Lua. Below, you'll find information about Lua, installation instructions for Windows and Linux, and how to play the guessing game.
 
 ## About Lua
 Lua is a powerful, efficient, lightweight, embeddable scripting language. It's often used in various applications and game development due to its simplicity and versatility.
@@ -22,12 +22,12 @@ sudo apt-get install lua5.3
 ## How to Play the Guessing Game
 
 1. Clone or download this repository to your local machine.
-2. Navigate to the directory containing the `adivinhe.lua` file.
+2. Navigate to the directory containing the `guess.lua` file.
 3. Open a terminal or command prompt.
 4. Run the game by executing the following command:
 
 ```lua
-lua advinhe.lua
+lua guess.lua
 ```
 
 5. Follow the instructions displayed in the game to play.
