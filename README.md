@@ -26,6 +26,6 @@ Contribuições são bem-vindas! Se você encontrar erros ou tiver sugestões, s
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/renanss4/aprendendo-programar/blob/main/LICENSE), o que significa que você tem total liberdade para usá-lo como preferir. Aproveite para aprender e contribuir!
+Este projeto está licenciado sob a [Licença MIT](https://github.com/renanss4/aprendendo-programar/blob/main/LICENSE.md), o que significa que você tem total liberdade para usá-lo como preferir. Aproveite para aprender e contribuir!
 
 > **Continue aprendendo!**
