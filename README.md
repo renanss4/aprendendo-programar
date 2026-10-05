@@ -1,30 +1,17 @@
-# INE5603 - UFSC
+# Aprendendo a Programar
 
-Este repositório contém os exercícios das listas do Profº Elder Rizzon Santos, com os enunciados e as minhas resoluções em notebooks Jupyter, e meu progresso na jornada de aprendizado em programação.
+Exercícios de lógica de programação em **Python**, em português, para quem está dando os primeiros passos. São 16 listas e 7 provas em notebooks: cada um traz uma teoria curta, exemplos para executar e exercícios com o enunciado e a resolução.
 
-**Disciplina:** INE5603 - Introdução à Programação Orientada a Objetos
+Não precisa instalar nada: clique em **Open in Colab** e programe direto no navegador.
 
-## Nota
+## Como estudar
 
-As listas do Profº Elder Rizzon Santos são uma excelente fonte de aprendizado, com uma didática incrível. Graças a ele e à minha dedicação, aprendi a programar de verdade, independente da linguagem de programação.
+1. Siga as listas **em ordem**: cada uma usa o que você aprendeu na anterior.
+2. Leia a teoria e **execute os exemplos**. Mude os valores e veja o que acontece.
+3. Tente resolver cada exercício **antes** de olhar a resolução, que fica logo abaixo do enunciado.
+4. Ao terminar as listas, teste seus conhecimentos com as provas.
 
-Os enunciados dos exercícios e das provas são de autoria do Profº Elder Rizzon Santos e estão aqui com a autorização dele.
-
-Recomendo seu [canal](https://www.youtube.com/@ProfElder) e a [playlist](https://youtube.com/playlist?list=PLgOsridJi6bPQw0GIbJPg4xxMOXLRMZqC&si=h-SrAkSHGLh84mYb) de Introdução à Programação.
-
-## Descrição
-
-Este repositório é uma iniciativa para ajudar iniciantes na programação, inspirado pela paixão que sempre tive em ensinar. A ideia é criar minha própria didática no futuro próximo.
-
-Cada lista é um notebook com uma teoria curta, exemplos para executar e os exercícios: o enunciado vem em cima e a resolução logo abaixo. Tente resolver sozinho antes de olhar a resposta! Clique em **Open in Colab** para abrir e executar no navegador, sem instalar nada.
-
-### Dicas
-
-1. Inicie com Python, evolua para outras linguagens depois.
-2. Evite funções prontas para desenvolver sua lógica.
-3. Utilize Google Colab ou Jupyter Notebook
-
-## Conteúdo
+## Listas
 
 | # | Lista | Colab |
 | - | ----- | ----- |
@@ -47,7 +34,7 @@ Cada lista é um notebook com uma teoria curta, exemplos para executar e os exer
 
 ## Provas
 
-Depois de terminar as listas, tente resolver as provas de semestres anteriores. A Prova 1 cobre as listas 1 a 10 e a Prova 2, as listas 11 a 16.
+Provas de semestres anteriores, para praticar como se fosse para valer: sem consultar o material. A Prova 1 cobre as listas 1 a 10 e a Prova 2, as listas 11 a 16.
 
 | Prova | Colab |
 | ----- | ----- |
@@ -59,6 +46,18 @@ Depois de terminar as listas, tente resolver as provas de semestres anteriores. 
 | [Prova 2 - 2022/2](provas/prova-2-2022-2.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renanss4/aprendendo-programar/blob/main/provas/prova-2-2022-2.ipynb) |
 | [Prova 2 - 2023/1](provas/prova-2-2023-1.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renanss4/aprendendo-programar/blob/main/provas/prova-2-2023-1.ipynb) |
 
----
+## Dicas
 
-> Siga os links para acessar o conteúdo de cada lista e pratique com as provas. Agradeço ao Profº Elder Rizzon Santos por sua incrível contribuição ao aprendizado.
+1. Comece com Python e evolua para outras linguagens depois.
+2. Evite funções prontas (`sum`, `max`, `sorted`...) no começo: o objetivo é desenvolver a sua lógica.
+3. Errar faz parte. Ler as mensagens de erro é metade do aprendizado.
+
+## Créditos
+
+Os enunciados dos exercícios e das provas são de autoria do **Prof. Elder Rizzon Santos** e estão aqui com a autorização dele. As listas dele têm uma didática incrível: graças a elas e à minha dedicação, aprendi a programar de verdade, independente da linguagem.
+
+Recomendo o [canal do professor](https://www.youtube.com/@ProfElder) e a [playlist de Introdução à Programação](https://youtube.com/playlist?list=PLgOsridJi6bPQw0GIbJPg4xxMOXLRMZqC).
+
+## Licença
+
+O código deste repositório está sob a [licença MIT](LICENSE.md). Os enunciados são de autoria do Prof. Elder Rizzon Santos.
